@@ -8,11 +8,11 @@ Please cite our paper if you are inspired by the idea.
 @ARTICLE{yang2022blind,
   author={Yang, Chao and An, Ping and Shen, Liquan},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Blind Image Quality Measurement Via Data-driven Transform Based Feature Enhancement}, 
+  title={Blind Image Quality Measurement via Data-Driven Transform-Based Feature Enhancement}, 
   year={2022},
-  volume={},
+  volume={71},
   number={},
-  pages={1-1},
+  pages={1-12},
   doi={10.1109/TIM.2022.3191661}}
 ```
 
