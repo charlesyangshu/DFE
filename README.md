@@ -1,4 +1,4 @@
-# [Blind Image Quality Measurement Via Data-driven Transform Based Feature Enhancement](https://ieeexplore.ieee.org/document/9831989)
+# [Blind Image Quality Measurement via Data-driven Transform Based Feature Enhancement](https://ieeexplore.ieee.org/document/9831989)
 
 ## Citation
 
